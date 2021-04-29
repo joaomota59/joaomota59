@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=MySQL)
 - 🛢 &nbsp;
   ![Sqlite](https://img.shields.io/badge/-Sqlite-333333?style=flat&logo=sqlite)
-  ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+  ![Cloud Firestore](https://img.shields.io/badge/-Cloud%20Firestore-333333?style=flat&logo=firebase)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
