@@ -29,6 +29,7 @@ Here are some ideas to get you started:
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=MySQL)
+  ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter)
 - 🛢 &nbsp;
   ![Sqlite](https://img.shields.io/badge/-Sqlite-333333?style=flat&logo=sqlite)
   ![Cloud Firestore](https://img.shields.io/badge/-Cloud%20Firestore-333333?style=flat&logo=firebase)
