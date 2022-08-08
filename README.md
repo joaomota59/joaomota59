@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
   ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter)
   <!--![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)-->
-  <!--![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)-->
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=MySQL)
 - 🛢 &nbsp;
   ![Sqlite](https://img.shields.io/badge/-Sqlite-333333?style=flat&logo=sqlite)
