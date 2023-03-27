@@ -29,8 +29,8 @@ Here are some ideas to get you started:
   ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter)
   <!--![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)-->
   ![FastAPI](https://img.shields.io/badge/FastAPI-333333?style=flat&logo=fastapi)
-  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=MySQL)
 - 🛢 &nbsp;
+  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=MySQL)
   ![Sqlite](https://img.shields.io/badge/-Sqlite-333333?style=flat&logo=sqlite)
   ![Cloud Firestore](https://img.shields.io/badge/-Cloud%20Firestore-333333?style=flat&logo=firebase)
   ![Google Cloud](https://img.shields.io/badge/Google_Cloud-333333?style=flat&logo=google-cloud&logoColor=blue)
